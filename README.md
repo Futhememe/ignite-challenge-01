@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/Print.jpg" />
+    <img alt="To do" title="To do" src=".github/Print.JPG" />
 </h1>
 
 <p align="center">
